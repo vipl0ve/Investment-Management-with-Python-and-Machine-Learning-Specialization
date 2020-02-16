@@ -1,6 +1,8 @@
 # [Investment Management with Python and Machine Learning Specialization](https://www.coursera.org/specializations/investment-management-python-machine-learning)
 ------
-This is a repository for all the lab session in the "**Investment Management with Python and Machine Learning Specialization**" Offered By **EDHEC Business School** and Hosted by **Coursera**.
+This is a repository for all the lab session in the "**Investment Management with Python and Machine Learning Specialization**" 
+
+Offered By **EDHEC Business School** and Hosted by **Coursera**.
 
 ![alt text](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/42/1b0afa423440f59faa76f899199e50/edhec-logo-500x125.png "EDHEC Business School")
 
